@@ -1,3 +1,6 @@
+# Tensorflow logs
+logs/*
+
 # History files
 .Rhistory
 .Rapp.history
